@@ -314,9 +314,6 @@
   flex-direction: column;
   line-height: 30px;
   font-weight: normal;
-}
-
-.footer__column-links {
   list-style-type: none;
   padding-left: 0;
   margin: 0;
