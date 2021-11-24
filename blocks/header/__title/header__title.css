@@ -1,7 +1,6 @@
 .header__title {
   max-width: 730px;
   display: flex;
-  z-index: 4;
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
