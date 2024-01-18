@@ -13,3 +13,6 @@
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/html5.svg" />
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/css3.svg" />
 <br/><br/>
+
+## Запуск:
+[Ссылка](https://meniaylo.github.io/how-to-learn/)
