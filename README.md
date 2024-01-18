@@ -15,4 +15,4 @@
 <br/><br/>
 
 ## Запуск:
-[Ссылка](https://meniaylo.github.io/how-to-learn/)
+[Туц](https://meniaylo.github.io/how-to-learn/)
